@@ -1,2 +1,3 @@
-# Daily-Task-Manager
-A simple and user-friendly Daily Task Manager that helps users organize daily activities, manage tasks, track progress, and stay productive.
+# Daily Task Manager
+
+The Daily Task Manager is a simple application designed to help users organize their daily activities, manage tasks, and track their progress. It provides an easy way to stay organized, manage time effectively, and improve productivity.
